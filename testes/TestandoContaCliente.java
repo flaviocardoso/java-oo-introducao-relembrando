@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import minha.classes.*;
+importclasses.*;
 
 @DisplayName("Testando Conta cliente")
 class TestandoContaCliente {
