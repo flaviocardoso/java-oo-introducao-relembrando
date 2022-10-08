@@ -8,6 +8,7 @@ public class Conta {
 	private static int total; // atributo compartilhado da classe
 	// temos sobrecarga no construtor de Conta, métodos também pode possuir sobrecarga
 	// como por exemplo tipos diferentes ou parâmetros.
+	// A sobrecarga não depende de herança de classes.
 	public Conta() {
 		Conta.total++;
 	}
