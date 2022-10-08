@@ -1,4 +1,4 @@
-package minha.classes;
+package classes;
 
 public class Conta {
 	private double saldo;
@@ -6,7 +6,7 @@ public class Conta {
 	private int numero;
 	private Cliente titular;
 	private static int total; // atributo compartilhado da classe
-	
+	// sobrecarga no construtor de Conta, também podesse ser feito em métodos de classe
 	public Conta() {
 		Conta.total++;
 	}
