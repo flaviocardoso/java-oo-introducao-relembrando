@@ -1,10 +1,10 @@
-package minha.classes;
+package classes;
 
 public class Carro {
 	private int ano;
 	private String modelo;
 	private double preco;
-	
+	// Temos aqui uma sobrecarga no construtor de Carro
 	public Carro() {
 		
 	}
