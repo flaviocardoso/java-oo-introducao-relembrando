@@ -1,6 +1,6 @@
-package minha.classes.contrutor;
+package classes.contrutor;
 
-import minha.classes.Cliente;
+import classes.Cliente;
 
 public class Conta {
 	private double saldo;
