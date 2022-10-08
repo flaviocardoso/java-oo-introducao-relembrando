@@ -4,7 +4,7 @@ public class Carro {
 	private int ano;
 	private String modelo;
 	private double preco;
-	
+	// temos sobrecarga no contrutor de Carro, o sobrecarga também pode ser feita em métodos.
 	public Carro() {
 		
 	}
