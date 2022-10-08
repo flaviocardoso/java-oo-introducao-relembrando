@@ -5,8 +5,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import minha.classes.Conta;
-import minha.classes.Cliente;
+import classes.Conta;
+import classes.Cliente;
 
 @DisplayName("Testando Conta")
 public class TestandoConta {
